@@ -19,3 +19,7 @@ The backend was built in Python. We used BERT and OpenAI embeddings to generate 
 ## Youtube Video
 
 This project was made as part of CS 625: Advance HCI. You can checkout the YouTube video with a demo here: https://www.youtube.com/watch?v=o-lv_oNOpko
+
+## Info
+
+This repo is a fork of the original repo created for the project from one of the other contributors. The team included Rajasi Desai, Suraj Pathak, and Rishab Maheshwari. 

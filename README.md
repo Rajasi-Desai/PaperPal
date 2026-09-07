@@ -2,6 +2,8 @@
 
 PaperPal is a research paper recommendation tool which recommends you research papers based on saved papers. 
 
+<img width="325" height="195" alt="PaperPal" src="https://github.com/user-attachments/assets/56adbb7c-0f93-4e31-a83f-e79091d6c2c2" />
+
 ## App info
 
 We built a chrome extension which can add research papers to folders, delete papers, view some limited details about the paper (like Author name, title, and publication year). If we click on the PaperPal icon from the extension, it opens a new window to the website. The website is an expanded view which has a similar look as the extension but with many more features like: -

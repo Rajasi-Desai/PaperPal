@@ -2,7 +2,7 @@
 
 PaperPal is a research paper recommendation tool which recommends you research papers based on saved papers. 
 
-## Frontend
+## App info
 
 We built a chrome extension which can add research papers to folders, delete papers, view some limited details about the paper (like Author name, title, and publication year). If we click on the PaperPal icon from the extension, it opens a new window to the website. The website is an expanded view which has a similar look as the extension but with many more features like: -
 
@@ -11,6 +11,10 @@ We built a chrome extension which can add research papers to folders, delete pap
 3. Multiple filtering capabilities like Search, hide / show certain columns, change column width, and shift columns
 4. Sorting papers based on ascending order, and descending order
 5. Insights button which gives us more information on why a particular paper was recommended
+
+## Frontend
+
+The frontend was built using React - JSX, JavaScript, HTML, CSS
 
 ## Backend
 
